@@ -1,5 +1,7 @@
 CryptList is a cryptocurrency website to watch the information about crytpo currencies and there real time value.
-Click here to see the Live page: cryptolist-eta.vercel.app/ 
+Click here to see the Live page: 
+
+<a href="cryptolist-eta.vercel.app/" target="_blank">cryptolist-eta.vercel.app/</a> 
 
 technologies used for the project:
 
